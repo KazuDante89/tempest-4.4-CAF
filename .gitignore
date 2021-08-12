@@ -67,6 +67,7 @@ Module.symvers
 #
 !.gitignore
 !.mailmap
+!.circleci
 
 #
 # Generated include files
@@ -125,7 +126,6 @@ Android.bp
 #
 # Ignore build scripts and respective dir
 #
-*.sh
 /out
 /wayne
 /tulip
